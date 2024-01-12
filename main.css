@@ -28,3 +28,9 @@ p {
 p:hover {
     rotate: 180deg;
 }
+img {
+    width: 5px;
+}
+img:hover {
+    width: 200px;
+}
