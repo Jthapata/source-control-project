@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1 {
+    padding: 1rem;
+    background-color: maroon;
+    color: rgb(168, 168, 168)
+}
+h2 {
+    padding: 1rem;
+    background-color: maroon;
+    color: rgb(168, 168, 168)
+}
+p {
+    padding: 1rem;
+    background-color: maroon;
+    color: rgb(168, 168, 168)
+}
